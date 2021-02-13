@@ -1,0 +1,28 @@
+# ignore Quartus generated files
+
+*.bak
+*.cmp
+*.eqn
+*.hex
+*.html
+*.jdi
+*.jpg
+*.pin
+*.pof
+*.ptf.*
+*.qar
+*.qarlog
+*.qws
+*.rpt
+*.smsg
+*.sof
+*.summary
+*.tcl
+*.txt 
+
+# ignore Quartus generated folders
+*/db/
+*/incremental_db/
+incremental_db/
+db/
+output_files/
