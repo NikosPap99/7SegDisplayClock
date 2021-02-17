@@ -15,6 +15,6 @@
 8. Enjoy!
 
 
-## Showcase video
+## Showcase photo on board
 
-![](Video\VID_20190804_093644.mp4)
+![](Image/IMG_20210213_153013.jpg)
