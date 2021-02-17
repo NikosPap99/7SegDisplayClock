@@ -13,3 +13,10 @@
 6. Go to Hardware Setup and choose the usb blaster.
 7. Press start.
 8. Enjoy!
+
+
+## Showcase video
+
+<video width="320" height="240" controls>
+  <source src="Video/VID_20190804_093644.mp4" type="video/mp4">
+</video>
